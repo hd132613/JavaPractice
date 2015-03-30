@@ -12,6 +12,6 @@ public class Loop {
 				else System.out.printf("%d", j);
 			}
 			System.out.println("");
-		}
+		}   
 	}
 }
