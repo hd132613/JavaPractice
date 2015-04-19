@@ -33,7 +33,7 @@ public class CarTest {
 //		car3.setModel("SM7");
 //		car3.setColor("회색");
 //		car3.setMaxSpeed(200);
-//		car3.setPrice(38000000);
+//		car3.setPrice(38000000); 
 		
 		System.out.println("<< 자동차 목록 >>");
 		System.out.println("제조사명 : " +car1.getCompany());

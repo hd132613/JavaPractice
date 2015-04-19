@@ -18,7 +18,7 @@ public class Car3 {
 		this.maxSpeed = maxSpeed;
 		this.price = price;
 	}
-	
+	 
 	public Car3(String company, String model, String color, int maxSpeed){
 		this(company,model,color,maxSpeed,0);
 	}
