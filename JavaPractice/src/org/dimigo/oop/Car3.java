@@ -7,7 +7,7 @@ public class Car3 {
 	private int maxSpeed;
 	private int price;
 	
-	public Car3(){
+	public Car3(){ 
 		
 	}
 	

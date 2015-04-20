@@ -6,7 +6,7 @@ public class Car2 {
 		private String color;
 		private int maxSpeed;
 		private int price;
-		
+		 
 		public Car2(){
 			
 		}

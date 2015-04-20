@@ -4,7 +4,7 @@ public class Car {
 	private String company;
 	private String model;
 	private String color;
-	private int maxSpeed;
+	private int maxSpeed; 
 	private int price;
 	
 	public String getCompany(){
