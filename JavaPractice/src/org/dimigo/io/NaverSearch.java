@@ -39,7 +39,7 @@ public class NaverSearch {
 
 	public static final String NAVER_OPEN_URL = "http://openapi.naver.com/search";
 	public static final String SEARCH_KEY = "b9a193c198e08bc926c5b86c8ac24a3";
-	
+
 	public static void main(String[] args) {		
 		CloseableHttpClient httpclient = HttpClients.createDefault();
 		
